@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 6.10.1
+  uic adddialog.ui
+  adddialog.cpp
+  addressbookcpp.cpp
+  moc_adddialog.cpp
+  AddressBookCPP.vcxproj -> C:\Users\Saksham\Desktop\SakshamFiles\Application\AddressBookCPP\x64\Debug\AddressBookCPP.exe
